@@ -15,7 +15,7 @@ app = FastAPI(title="Misinformation Detection API")
 # Let the frontend talk to this API without browser blocking.
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=os.getenv("CORS_ORIGINS", "http://localhost:3000").split(","),
+    allow_origin_regex=r"http://localhost:\d+",
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
