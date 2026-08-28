@@ -1,14 +1,6 @@
 # Misinformation Detection on Social Media
 
-Full-stack web application for detecting misinformation in social media text using ensemble machine learning models. Built for COS30049 Assignment 3.
-
-## Contributors
-
-| Name | Student ID | Role |
-|------|-----------|------|
-| Chen Yong Hao | 106214496 | Data Engineer |
-| Koh Boon Heok | 106213833 | Project Manager |
-| Lee Ren Qi | 105971567 | Frontend Developer |
+Full-stack web application for detecting misinformation in social media text using ensemble machine learning models.
 
 ## Technology Stack
 
