@@ -1,0 +1,38 @@
+{
+  "Logistic Regression on constraint_test": {
+    "accuracy": 0.825619448340346,
+    "precision": 0.7922312556458898,
+    "recall": 0.8598039215686275,
+    "f1": 0.8246356370474848
+  },
+  "Logistic Regression on external_test": {
+    "accuracy": 0.9699368292868559,
+    "precision": 0.9764150943396226,
+    "recall": 0.971957740967784,
+    "f1": 0.9741813190404601
+  },
+  "Random Forest on constraint_test": {
+    "accuracy": 0.8031790556334736,
+    "precision": 0.7230081906180194,
+    "recall": 0.9519607843137254,
+    "f1": 0.8218366483283961
+  },
+  "Random Forest on external_test": {
+    "accuracy": 0.9796788187837735,
+    "precision": 0.9743589743589743,
+    "recall": 0.9912612495108908,
+    "f1": 0.9827374410034266
+  },
+  "Hybrid Random Forest on constraint_test": {
+    "accuracy": 0.8863955119214586,
+    "precision": 0.8647887323943662,
+    "recall": 0.9029411764705882,
+    "f1": 0.883453237410072
+  },
+  "Hybrid Random Forest on external_test": {
+    "accuracy": 0.9874419666641296,
+    "precision": 0.98777633289987,
+    "recall": 0.9907395330637798,
+    "f1": 0.9892557140066419
+  }
+}
